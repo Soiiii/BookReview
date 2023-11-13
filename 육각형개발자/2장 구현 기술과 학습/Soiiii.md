@@ -6,13 +6,13 @@
 구현 기술은 소프트웨어를 만드는 데 꼭 필요한 도구다. 개발자가 얼마나 구현 기술을 잘 활용하느냐에 따라 결과물이 달라진다.
 
 ```yaml
-'프로그래밍 언어 : Java, Javascript, Typescript, Kotlin'
-'자바 웹 서비스 개발 : Spring Boot, HIbernate, MyBatis'
-'자체적 API 개발 : Golang, React'
-'데이터ㅔ이스 연동 작업 : MySQL'
-'메시징 프로그램 : Kafka'
-'클라우드 : AWS'
-'운영체제 : OS' 
+프로그래밍 언어 : Java, Javascript, Typescript, Kotlin
+자바 웹 서비스 개발 : Spring Boot, HIbernate, MyBatis
+자체적 API 개발 : Golang, React
+데이터ㅔ이스 연동 작업 : MySQL
+메시징 프로그램 : Kafka
+클라우드 : AWS
+운영체제 : OS
 ```
 
 → 위와 같이 개발자가 어떤 역할, 직군을 하느냐에 따라 선택해야 하는 기술이 달라진다.
