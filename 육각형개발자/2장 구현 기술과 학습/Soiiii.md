@@ -9,7 +9,7 @@
 프로그래밍 언어 : Java, Javascript, Typescript, Kotlin
 자바 웹 서비스 개발 : Spring Boot, HIbernate, MyBatis
 자체적 API 개발 : Golang, React
-데이터ㅔ이스 연동 작업 : MySQL
+데이터베이스 연동 작업 : MySQL
 메시징 프로그램 : Kafka
 클라우드 : AWS
 운영체제 : OS
