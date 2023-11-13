@@ -40,16 +40,6 @@
 3. 필요할 때마다 기술을 조금씩 더 깊게 학습한다.
 4. 방법을 잘 모르거나 구현하기 어려운 문제가 생겼을 때 해결하기 위한 더 나은 방법이 있는지 찾아본다.
 
-```sql
-CREATE USER 'user'@'%'
-	IDENTIFIED WITH 'mysql_native_password' BY 'password'
-	REQUIRE NONE
-	PASSWORD EXPIRE INTERVAL 30 DAY
-	ACCOUNT UNLOCK
-	PASSWORD HISTORY DEFAULT
-	PASSWORD REUSER INTERVAL DEFAULT
-	PASSWORD REQUIRE CURRENT DEFAULT;
-```
 
 ## 2.4 학습 전략
 
